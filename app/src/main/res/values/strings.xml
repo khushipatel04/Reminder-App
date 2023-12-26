@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">ReminderApp</string>
+    <string name="hello">Hello</string>
+    <string name="todo">TODO</string>
+    <string name="add_reminder_here">Add Reminder Here...</string>
+    <string name="enter_the_task">Enter The Task</string>
+    <string name="date">date</string>
+    <string name="time">time</string>
+    <string name="save">Save</string>
+    <string name="todo1">TODO</string>
+    <string name="snozz_off">Snozz off</string>
+    <string name="todo2">TODO</string>
+    <string name="flashlight">Flashlight</string>
+    <string name="_90_charging">90% Charging</string>
+    <string name="date1">Date</string>
+    <string name="time1">Time</string>
+    <string name="title">Title</string>
+    <string name="task_reminder">Task Reminder</string>
+    <string name="task_reminder1">TASK REMINDER</string>
+</resources>
